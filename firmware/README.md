@@ -1,3 +1,7 @@
+ # About Firmware
+Firmware files are zipped to make them easier to download.  
+The binary file needs to be extracted (unzipped) before attempting to update.
+ 
  # Firmware Versions
 Firmware versions 1.1XXX should be used in all new devices.  
 Firmware versions 1.08XX should only be used for devices with Serial Numbers older than 400.
