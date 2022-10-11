@@ -6,7 +6,7 @@ The binary file needs to be extracted (unzipped) before attempting to update.
 Firmware versions 1.2XXX must be used in all Series 2 WM1's. These were manufactured starting in August 2022.
 Series 2 AlcoMeasure's will not work with 1.1XXX firmware.
 
-Series 1 AlcoMeasure's after serial no 400 can be updated with firmware 1.2XXX.
+Series 1 AlcoMeasure's with serial numbers higher than 400 can be updated with firmware 1.2XXX.
 If it is desired to convert the device to use the AS 3547:2019 configuration, this can be done by selecting "Reset STD Items" in the onboard menu after updating the firmware to 1.2XXX.
 
 Please note: For a Series 1 AlcoMeasure to become fully compliant with AS 3547:2019 it must be returned to All-Systems Electronics for a factory upgrade.

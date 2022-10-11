@@ -4,7 +4,7 @@ The binary file needs to be extracted (unzipped) before attempting to update.
  
  # Firmware Versions
 Firmware versions 1.1XXX should be used in all new devices.  
-Firmware versions 1.08XX should only be used for devices with Serial Numbers older than 400.
+Firmware versions 1.08XX should only be used for devices with serial numbers less than 400.
  
  # Updating firmware
 
