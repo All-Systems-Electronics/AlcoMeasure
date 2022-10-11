@@ -1,5 +1,5 @@
 # ChangeLog
-AlcoMeasure Utility copyright 2022 All-Systems Electronics PTY LTD
+AlcoMeasure copyright 2022 All-Systems Electronics PTY LTD
 
 ## [1.2001] - 2022-10-10
 ### Fixed
