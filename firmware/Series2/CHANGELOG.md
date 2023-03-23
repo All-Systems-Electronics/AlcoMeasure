@@ -1,5 +1,15 @@
 # ChangeLog
-AlcoMeasure copyright 2022 All-Systems Electronics PTY LTD
+AlcoMeasure copyright 2023 All-Systems Electronics PTY LTD
+
+## [1.3003] - 2023-03-23
+### Fixed
+- Fixed bug where 2nd photo wasn't being taken.
+- Fixed bug causing USB to not auto-connect if USB cable is connected on startup.
+
+## [1.3000] - 2023-03-22
+### Changed
+- Added support for IMX processor board.
+- "Service Due" message can now be disabled along with the annual service message.
 
 ## [1.2001] - 2022-10-10
 ### Fixed
