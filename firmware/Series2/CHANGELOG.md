@@ -1,6 +1,16 @@
 # ChangeLog
 AlcoMeasure copyright 2023 All-Systems Electronics PTY LTD
 
+## [1.3009] - 2023-03-30
+### Changed
+- Changed distributor and service level passwords.
+### Fixed
+- Fixed ethernet bug in IMX unit that caused the device to randomly reset.
+- Fixed bug causing failure to calibrate in older units.
+  - Introduced in 1.3000.
+  - Only affects K60 units connected to Series 1 Sample Systems.
+- Fixed bug causing RTC compensation to be set incorrectly in K60 units.
+
 ## [1.3003] - 2023-03-23
 ### Fixed
 - Fixed bug where 2nd photo wasn't being taken.

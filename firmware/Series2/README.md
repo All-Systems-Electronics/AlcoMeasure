@@ -3,8 +3,10 @@ Firmware files are zipped to make them easier to download.
 The binary files need to be extracted (unzipped) before attempting to update.
 
 Multiple firmware files are contained in the zip:
-* AMFK60_1_XXXX.S19 - For use in Series 2 K60 processor boards.
 * AMFIMX_1_XXXX.S19 - For use in Series 2 IMX processor boards.
+* AMFK60_1_XXXX.S19 - For use in Series 2 K60 processor boards.
+* AlcoMeasure1_XXXX.S19 - Also for use in Series 2 K60 processor boards.
+  * This version is included so that machines will older bootloaders can still locate the firmware file.
  
  # Firmware Versions
 Firmware versions >= 1.2000 must be used in all Series 2 WM1's. These were manufactured starting in August 2022.
@@ -20,8 +22,8 @@ AlcoMeasure Utility is the preferred option for upgrading the firmware in device
 See the [AlcoMeasure WM1 User Manual](https://github.com/All-Systems-Electronics/AlcoMeasure/tree/master/documentation) for more information
 
 For older devices, the following procedure must be used:
-1. Place the relevant firmware file on a SanDisk or other reputable USB stick.  
-   The firmware file must keep the original name, be in the root folder of the stick, and should be the only firmware file in the folder.
+1. Place the relevant firmware file on a SanDisk or other reputable USB stick.
+   * If all files from the zip are extracted to the USB stick, the AlcoMeasure will choose the appropriate one for its board type.
 2. Power off the AlcoMeasure.
 3. Insert the USB stick into the Type-A port on the AlcoMeasure processor board.  
    If the device is a K60 variant, make sure there is no cable connected to the Mini-B port.
