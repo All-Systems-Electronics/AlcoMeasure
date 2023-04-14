@@ -1,6 +1,11 @@
 # ChangeLog
 AlcoMeasure copyright 2023 All-Systems Electronics PTY LTD
 
+## [1.3012] - 2023-04-14
+### Fixed
+- Fixed bug causing the RTC to sometimes be read incorrectly on startup.
+- Fixed bug causing test count to get corrupted.
+
 ## [1.3009] - 2023-03-30
 ### Changed
 - Changed distributor and service level passwords.
