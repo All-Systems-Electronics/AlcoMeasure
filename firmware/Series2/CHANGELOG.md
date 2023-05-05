@@ -1,6 +1,10 @@
 # ChangeLog
 AlcoMeasure copyright 2023 All-Systems Electronics PTY LTD
 
+## [1.3019] - 2023-05-05
+### Changed
+- Improved RF robustness of external I2C bus.
+
 ## [1.3012] - 2023-04-14
 ### Fixed
 - Fixed bug causing the RTC to sometimes be read incorrectly on startup.
