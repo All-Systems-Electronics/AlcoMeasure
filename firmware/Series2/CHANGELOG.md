@@ -1,6 +1,12 @@
 # ChangeLog
 AlcoMeasure copyright 2023 All-Systems Electronics PTY LTD
 
+## [1.3025] - 2023-07-10
+### Changed
+- Added support for Omni Printer
+### Fixed
+- Fixed bug where extra button presses were sometimes detected.
+
 ## [1.3019] - 2023-05-05
 ### Changed
 - Improved RF robustness of external I2C bus.
