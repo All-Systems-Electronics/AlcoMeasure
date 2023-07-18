@@ -1,6 +1,10 @@
 # ChangeLog
 AlcoMeasure copyright 2023 All-Systems Electronics PTY LTD
 
+## [1.3026] - 2023-07-18
+### Fixed
+- Fixed bug where PRINT_REPLY_ERROR flag was getting set when printer was disabled.
+
 ## [1.3025] - 2023-07-10
 ### Changed
 - Added support for Omni Printer
