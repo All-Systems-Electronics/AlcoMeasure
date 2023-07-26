@@ -1,6 +1,10 @@
 # ChangeLog
 AlcoMeasure copyright 2023 All-Systems Electronics PTY LTD
 
+## [1.3028] - 2023-07-27
+### Fixed
+- Fixed bug stopping camera from working in K60 units.
+
 ## [1.3027] - 2023-07-18
 ### Fixed
 - Fixed bug causing iButton to not work.
