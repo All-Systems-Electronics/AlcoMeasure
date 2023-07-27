@@ -1,6 +1,10 @@
 # ChangeLog
 AlcoMeasure copyright 2023 All-Systems Electronics PTY LTD
 
+## [1.3029] - 2023-07-27
+### Fixed
+- Fixed user validation bug in IMX units during a formal test.
+
 ## [1.3028] - 2023-07-27
 ### Fixed
 - Fixed bug stopping camera from working in K60 units.
