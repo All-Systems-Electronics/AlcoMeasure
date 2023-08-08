@@ -1,6 +1,11 @@
 # ChangeLog
 AlcoMeasure copyright 2023 All-Systems Electronics PTY LTD
 
+## [1.3030] - 2023-08-09
+### Changed
+- Modified sample system auto-actuation pause time from 2s to 3.5s.
+  - Only relevant during servicing.
+
 ## [1.3029] - 2023-07-27
 ### Fixed
 - Fixed user validation bug in IMX units during a formal test.
