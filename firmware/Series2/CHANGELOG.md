@@ -1,6 +1,11 @@
 # ChangeLog
 AlcoMeasure copyright 2023 All-Systems Electronics PTY LTD
 
+## [1.3032] - 2023-08-14
+### Fixed
+- Bug causing the daily log report download to not display date/time when embedded in email.
+- Improved stability of image downloads from camera.
+
 ## [1.3030] - 2023-08-09
 ### Changed
 - Modified sample system auto-actuation pause time from 2s to 3.5s.
