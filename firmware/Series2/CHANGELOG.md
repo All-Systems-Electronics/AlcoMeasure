@@ -1,6 +1,16 @@
 # ChangeLog
 AlcoMeasure copyright 2023 All-Systems Electronics PTY LTD
 
+## [1.3049] - 2024-04-29
+### Changed
+- SMTP name length increased to 60 characters from 50.
+- Added better handling of corrupted logs.
+-- Fixes log syncing issue with AMS/AMU.
+-- Fixes log mirroring to SD Card.
+### Fixed
+- Bug causing random network dropout for 18 minutes.
+- Bug causing corrupted network packet on retransmission.
+
 ## [1.3032] - 2023-08-14
 ### Fixed
 - Bug causing the daily log report download to not display date/time when embedded in email.
