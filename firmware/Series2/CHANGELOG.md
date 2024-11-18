@@ -1,5 +1,18 @@
 # ChangeLog
-AlcoMeasure copyright 2023 All-Systems Electronics PTY LTD
+AlcoMeasure copyright 2024 All-Systems Electronics PTY LTD
+
+## [1.3052] - 2024-11-18
+### Fixed
+- No longer fails to send an email if there is no subject.
+- Lines in the email body are no longer in danger of going over the RFC limit.
+
+## [1.3051] - 2024-06-19
+### Fixed
+- Modified configuration of RTC to make it more robust against RF.
+
+## [1.3050] - 2024-05-30
+### Fixed
+- Bug causing emails to not send.
 
 ## [1.3049] - 2024-04-29
 ### Changed
