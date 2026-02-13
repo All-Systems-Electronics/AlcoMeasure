@@ -1,5 +1,11 @@
 # ChangeLog
-AlcoMeasure copyright 2024 All-Systems Electronics PTY LTD
+AlcoMeasure copyright 2026 All-Systems Electronics PTY LTD
+
+## [1.3060] - 2026-02-13
+### Added
+- Added ability to send emails through Microsoft using OAUTH.
+### Changed
+- Improved handling of Camera errors.
 
 ## [1.3052] - 2024-11-18
 ### Fixed
