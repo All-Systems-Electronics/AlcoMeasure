@@ -1,6 +1,13 @@
 # ChangeLog
 AlcoMeasure copyright 2026 All-Systems Electronics PTY LTD
 
+## [1.3061] - 2026-02-24
+### Changed
+- Increased MAC address allocation.
+- Removed camera-instigated restart.
+### Fixed
+- Added mechanism to recover barometer on soft reset.
+
 ## [1.3060] - 2026-02-13
 ### Added
 - Added ability to send emails through Microsoft using OAUTH.
