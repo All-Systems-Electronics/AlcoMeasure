@@ -1,6 +1,11 @@
 # ChangeLog
 AlcoMeasure copyright 2026 All-Systems Electronics PTY LTD
 
+## [1.3062] - 2026-07-08
+### Changed
+- decreased the amount of time the camera takes to recover.
+- increased reliability of the camera. 
+
 ## [1.3061] - 2026-02-24
 ### Changed
 - Increased MAC address allocation.
