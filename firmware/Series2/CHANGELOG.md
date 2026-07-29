@@ -1,6 +1,12 @@
 # ChangeLog
 AlcoMeasure copyright 2026 All-Systems Electronics PTY LTD
 
+## [1.3063] - 2026-07-29
+### Added
+- In the HTML over limit report, it now includes the pin if there is one.
+### Fixed
+- bug with the newer camera modules failing with previous version FW changes
+
 ## [1.3062] - 2026-07-08
 ### Changed
 - decreased the amount of time the camera takes to recover.
