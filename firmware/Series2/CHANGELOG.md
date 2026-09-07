@@ -1,6 +1,10 @@
 # ChangeLog
 AlcoMeasure copyright 2026 All-Systems Electronics PTY LTD
 
+## [1.3064] - 2026-09-07
+### Added
+- recovery mechanism for the camera I2C bus.
+
 ## [1.3063] - 2026-07-29
 ### Added
 - In the HTML over limit report, it now includes the pin if there is one.
